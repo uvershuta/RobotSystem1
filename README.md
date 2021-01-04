@@ -28,6 +28,10 @@ RaspberryPi4、ブレッドボード、ジャンパーピン、LED、抵抗
 
 ---
 
+ライセンス
+---
+[GNU General Public License v3.0](https://github.com/uvershuta/RobotSystem1/blob/main/COPYING)
+
 
 
 
