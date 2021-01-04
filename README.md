@@ -39,8 +39,9 @@ RaspberryPi4を用いてLEDを点灯させるデバイスドライバを作成�
 
 実行方法
 ---
-`echo 1 > /dev/myled0`
-`echo 0 > /dev/myled0`
+`echo 1 > /dev/myled0
+
+echo 0 > /dev/myled0`
 
 ---
 
