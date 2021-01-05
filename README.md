@@ -41,7 +41,7 @@ LEDのアノードはGPIO25に接続する。
 ---
 
 ```
-   $ git clone  
+   $ git clone https://github.com/uvershuta/RobotSystem1.git
    $ cd myled
    $ make
    $ sudo insmod myled.ko
