@@ -40,7 +40,7 @@ LEDのアノードはGPIO25に接続する。
 実行方法
 ---
 
-"gitclone"  
+``gitclone``  
 ・点灯
 
 `echo 1 > /dev/myled0`
