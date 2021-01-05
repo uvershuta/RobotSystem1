@@ -7,7 +7,7 @@ Ubuntu 18.04 LTS
 
 ---
 
-実験概要
+概要
 ---
 RaspberryPi4を用いてLEDを点灯させるデバイスドライバを作成した。
 
@@ -39,6 +39,8 @@ LEDのアノードはGPIO25に接続する。
 
 実行方法
 ---
+
+"gitclone"  
 ・点灯
 
 `echo 1 > /dev/myled0`
