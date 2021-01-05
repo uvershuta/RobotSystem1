@@ -50,7 +50,8 @@ LEDのアノードはGPIO25に接続する。
    $ sudo insmod myled.ko
   
    $ sudo chmod 666 /dev/myled0
-    ```
+   
+   ```
   
 ・点灯
 
