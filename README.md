@@ -41,9 +41,13 @@ LEDのアノードはGPIO25に接続する。
 ---
 
 ``$ git clone  
+ 
   $ cd myled
+  
   $ make
+  
   $ sudo insmod myled.ko
+  
   $ sudo chmod 666 /dev/myled0``
   
 ・点灯
