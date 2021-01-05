@@ -34,7 +34,7 @@ RaspberryPi4を用いてLEDを点灯させるデバイスドライバを作成�
 
 回路
 ---
-![回路](https://user-images.githubusercontent.com/72175085/103672027-0bc8f800-4fbf-11eb-8984-c036b2c0d335.jpg)
+<img src="***https://user-images.githubusercontent.com/72175085/103672027-0bc8f800-4fbf-11eb-8984-c036b2c0d335.jpg***" width="***320px***">
 ---
 
 実行方法
