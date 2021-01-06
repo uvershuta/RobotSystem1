@@ -60,6 +60,7 @@ LEDのアノードはGPIO25に接続する。
 
 動画
 ---
+https://youtu.be/l9GRMsLbqrM
 
 ---
 
